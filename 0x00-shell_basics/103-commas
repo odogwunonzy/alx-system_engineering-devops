@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -m */ .* ./..[:alpha:] [1-a]  [:alnum:] *\n
