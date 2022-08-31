@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la /root/paretnt_directory/current_directory
