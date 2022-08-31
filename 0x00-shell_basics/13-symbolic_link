@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls ./try_ls_now
+ln -sf /mnt/bin/ls ./try_ls_now
