@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m */ .* [:alpha:] [0-9a-z] [:alnum:] *\n
+ls -pamv
