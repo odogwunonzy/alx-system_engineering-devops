@@ -1,2 +1,2 @@
 #!/bin/bash
-shell permission readme
+shell permission 
